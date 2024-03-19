@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/project_2/project_2.srcs/sources_1/imports/P/contador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'contador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/project_2/project_2.srcs/sources_1/imports/P/hex7seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'hex7seg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/project_2/project_2.srcs/sources_1/imports/P/mux4x1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux4x1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/project_2/project_2.srcs/sources_1/imports/P/selector_an.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'selector_an'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/project_2/project_2.srcs/sources_1/imports/Practica2/modulo_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'modulo_top'

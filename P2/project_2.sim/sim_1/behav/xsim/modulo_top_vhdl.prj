@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/imports/P/contador.vhd" \
+"../../../../project_2.srcs/sources_1/imports/P/hex7seg.vhd" \
+"../../../../project_2.srcs/sources_1/imports/P/mux4x1.vhd" \
+"../../../../project_2.srcs/sources_1/imports/P/selector_an.vhd" \
+"../../../../project_2.srcs/sources_1/imports/Practica2/modulo_top.vhd" \
+
+# Do not sort compile order
+nosort

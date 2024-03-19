@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Fri Mar  8 12:35:24 2024
+# Process ID: 10128
+# Current directory: C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/P1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11508 C:\Users\luis_\OneDrive\Escritorio\IPN\UPIITA\Semestre6\AC\P\P1\P1.xpr
+# Log file: C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/P1/vivado.log
+# Journal file: C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/P1\vivado.jou
+# Running On: Victus, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 6, Host memory: 16801 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/luis_/OneDrive/Escritorio/IPN/UPIITA/Semestre6/AC/P/P1/P1.xpr
+update_compile_order -fileset sources_1
